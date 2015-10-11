@@ -7,9 +7,9 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://jkutner.github.io/disney-blog/'
+domain_name: 'http://disneyadventureblog.github.io'
 google_analytics: 'UA-60067944-1'
 
 # Details for the RSS feed generator
-url:            'http://jkutner.github.io/disney-blog/'
+url:            'http://disneyadventureblog.github.io'
 author:         'Vader Cat'
