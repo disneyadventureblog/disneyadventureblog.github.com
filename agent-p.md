@@ -10,3 +10,13 @@ different missions throughout the World Showcase at Disney's Epcot park.
 Each mission takes place at a different country pavillion. During the mission,
 you'll activate interactive experiences as you explore the location. You are guided
 on your mission by a handheld eletronic device called a F.O.N.E.
+
+The countries with missions are:
+
+* Mexico
+* Norway
+* China
+* Germany
+* Japan
+* France
+* UK
