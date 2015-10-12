@@ -20,3 +20,10 @@ The countries with missions are:
 * Japan
 * France
 * UK
+
+Before embarking on your mission, you should pick up a [Doofenslurper](http://disneyparks.disney.go.com/blog/2013/02/have-you-tried-the-doofenslurper/)
+But don't drink it too quickly or you will get a stomach ache.
+
+<img src="/assets/images/doofenslurper.jpg" style="width: 50%; margin-left: 0; margin-right: 0" alt="Doofenslurper">
+
+You can pick up a F.O.N.E. at the Field Stations located near the World Showcase entrance, between Italy and America, or between France and the UK.
