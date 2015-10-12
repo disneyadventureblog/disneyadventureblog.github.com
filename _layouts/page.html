@@ -1,6 +1,10 @@
 ---
 layout: default
 post_class: post-template page-template
+sotmk: '/sotmk.html'
+pirates: '/pirates.html'
+we: '/we.html'
+agents: '/agent-p.html'
 ---
 
 <nav class="main-nav clearfix">
@@ -38,11 +42,13 @@ post_class: post-template page-template
             {{content}}
         </section>
 
-        <footer class="post-footer">
-          <figure class="author-image">
-            <a class="img" href="{{ site.baseurl }}" style="background-image: url({{page.logo}})">
-              <span class="hidden">Logo</span></a>
-          </figure>
+	<footer class="post-footer">
+	  <div align="center">
+	    <a href='{{ page.sotmk }}'>Sorcerers</a> |
+	    <a href='{{ page.pirates }}'>Pirates</a> |
+	    <a href='{{ page.we }}'>Explorers</a>|
+	    <a href='{{ page.agents }}'>Agents</a>
+          </div>
         </footer>
 
     </article>
