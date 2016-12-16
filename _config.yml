@@ -20,3 +20,10 @@ url:            'http://disneyadventureblog.github.io'
 author:         'Vader Cat'
 
 gems: [jekyll-paginate]
+
+
+link_sotmk: '/sotmk.html'
+link_pirates: '/pirates.html'
+link_we: '/we.html'
+link_agents: '/agent-p.html'
+link_space: '/space.html'
