@@ -2,8 +2,13 @@ name: Disney Adventure Blog
 description:
 meta_description: "Things to do in Disney that are not rides"
 
-markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
 logo: false
 paginate: 15
 baseurl: /
@@ -13,3 +18,5 @@ google_analytics: 'UA-60067944-1'
 # Details for the RSS feed generator
 url:            'http://disneyadventureblog.github.io'
 author:         'Vader Cat'
+
+gems: [jekyll-paginate]
